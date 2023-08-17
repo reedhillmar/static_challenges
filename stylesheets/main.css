@@ -1,0 +1,52 @@
+h1 {
+  color: white;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  vertical-align: ;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
+
+a {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
+
+header {
+  background-color: rgb(199, 23, 23);
+  padding: 20px;
+}
+
+nav {
+  background-color: rgb(51, 49, 49);
+  padding: 10px;
+  text-align: right;
+  font-size: 20px;
+}
+
+footer {
+  background-color: rgb(51, 49, 49);
+  padding: 20px;
+}
+
+aside {
+  width: 20%;
+  float: right;
+}
+
+section {
+  padding: 20px;
+}
